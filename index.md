@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./feature.html) (./about.html) (./inspiration.html)
+[Link to another page](./feature.md) [Link to another page](./about.md) [Link to another page](./inspiration.md).
 
 There should be whitespace between paragraphs.
 
