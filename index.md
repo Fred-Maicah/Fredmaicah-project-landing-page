@@ -2,12 +2,10 @@
 layout: default
 ---
 
-[Link to another page](./feature.md)     [Link to another page](./about.md)     [Link to another page](./inspiration.md).
+[Feature](./feature.md)     [About](./about.md)     [Inspiration](./inspiration.md).
 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
 
 Video streaming platform
 
